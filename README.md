@@ -6,7 +6,7 @@
 
 **Github Repo**
 
-https://github.com/MTayyebKhan/T2A1-A_Workbook
+https://github.com/MTayyebKhan/T2A1-B_Workbook
 
 <br>
 
